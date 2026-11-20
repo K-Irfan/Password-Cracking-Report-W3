@@ -29,7 +29,7 @@ Using both local offline auditing tools (**John the Ripper 1.9.0-jumbo-1** and t
 | **1. Environment Setup** | John the Ripper `1.9.0-jumbo-1` & Johnny `v2.2` | Installed Johnny GUI and linked it to `john.exe` (`OMP 64-bit x86_64 AVX2`) inside the `john-1.9.0-jumbo-1-win64/run/` directory. |
 | **2. Hash Extraction** | OnlineHashCrack (`pdf2john` engine) | Uploaded `My Locked PDF1.pdf` to extract the raw PDF encryption hash (`$pdf$4*4*128*-1060*1*16*55d1a5c1...`) and saved it cleanly to `hash1.txt`. |
 | **3. Dictionary Attack** | Johnny GUI (`Start new attack`) | Loaded `hash1.txt` into Johnny (`format=PDF`) and executed a wordlist attack, recovering the plaintext password (`password1`) in seconds. |
-| **4. Verification** | Adobe Acrobat Reader | Opened `My Locked PDF1.pdf` using the recovered password (`password1`) and captured the embedded 1st Flag verification screen. |
+| **4. Verification** | PDF Viewer | Opened `My Locked PDF1.pdf` using the recovered password (`password1`) and captured the embedded 1st Flag verification screen. |
 
 ### Evidence Screenshots (`W3-PM1`)
 
