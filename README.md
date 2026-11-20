@@ -5,7 +5,7 @@
 | Field | Detail |
 | :--- | :--- |
 | **Pentester Name (Cybersecurity Professional)** | Irfan K |
-| **Program / Batch** | Networkwalks Cybersecurity Internship[cite: 31] |
+| **Program / Batch** | Networkwalks Cybersecurity Internship - B084|
 | **Date** | 20 November 2026 |
 | **Modules Completed** | **W3-PM1:** Password Cracking with JTR (John the Ripper & Johnny)[cite: 32, 55]<br>**W3-PM2:** Password Cracking with Networkwalks Tools[cite: 47, 55] |
 | **Target Files** | `My Locked PDF1.pdf` (`W3-PM1`) & `Locked PDF2.pdf` (`W3-PM2`) |
