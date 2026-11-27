@@ -79,3 +79,10 @@ To protect encrypted documents, archives, and authentication systems against off
 1. **Enforce High-Entropy Passphrases (14+ Characters):** Avoid single dictionary words or predictable substitutions (e.g., `password1`). Use randomly generated passwords or 4+ word diceware passphrases combining uppercase, lowercase, digits, and symbols.
 2. **Use Strong Encryption Standards (AES-256):** When encrypting sensitive PDFs or archives, enforce **AES-256** encryption (PDF 2.0 / Acrobat X+) rather than legacy RC4 or 128-bit encryption, which allows vastly higher hash-guessing speeds per second on modern hardware.
 3. **Eliminate Password Reuse & Implement MFA:** Never reuse document passwords across corporate accounts or portals, and enforce Multi-Factor Authentication (MFA) on all identity providers so compromised credentials cannot be used independently.
+
+---
+
+## Author
+
+* **Irfan K**
+* Cybersecurity Intern @ NetworkWalks Academy
