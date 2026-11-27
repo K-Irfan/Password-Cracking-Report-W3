@@ -9,7 +9,7 @@
 | **Date** | 20 November 2026 |
 | **Modules Completed** | **W3-PM1:** Password Cracking with JTR (John the Ripper & Johnny)<br>**W3-PM2:** Password Cracking with Networkwalks Tools |
 | **Target Files** | `My Locked PDF1.pdf` (`W3-PM1`) & `Locked PDF2.pdf` (`W3-PM2`) |
-| **Previous Reports** | [Week 1: Cybersecurity Lab Setup](https://github.com/K-Irfan/Cybersecurity-Lab-Setup)<br>[Week 2: Footprinting & Network Scanning Report]([https://github.com/K-Irfan](https://github.com/K-Irfan/NetworkWalks-W2-Pentesting-Report)) |
+| **Previous Reports** | [Week 1: Cybersecurity Lab Setup](https://github.com/K-Irfan/Cybersecurity-Lab-Setup)<br>[Week 2: Footprinting & Network Scanning Report](https://github.com/K-Irfan/NetworkWalks-W2-Pentesting-Report) |
 
 ---
 
